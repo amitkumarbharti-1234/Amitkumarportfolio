@@ -24,8 +24,8 @@ export const personalInfo = {
   email: 'bt22cse02@nituk.ac.in',
   github: 'https://github.com/amitkumarbharti-1234',
   linkedin: 'https://www.linkedin.com/in/amit-kumar-008626312',
-  resumeLink: '/AmitResume.pdf',
-  profileImage: '/profile.jpg',
+  resumeLink: `${import.meta.env.BASE_URL}AmitResume.pdf`,
+  profileImage: `${import.meta.env.BASE_URL}profile.jpg`,
 };
 
 export const stats = [
