@@ -130,8 +130,8 @@ export const projects = [
       'A dynamic resume builder application with live preview, PDF export, multiple template selection, and professional writing styles.',
     features: ['Live Preview', 'PDF Export', 'Template Selection', 'Writing Style'],
     tech: ['React', 'Tailwind CSS', 'jsPDF', 'JavaScript'],
-    github: 'https://github.com/amitkumar/resume-builder',
-    live: '#',
+    github: 'https://github.com/amitkumar/resume-builderhttps://github.com/amitkumarbharti-1234/premium-resume-builder',
+    live: 'https://premium-resume-builder-two.vercel.app/',
     image: 'resume_builder',
   },
   {
@@ -141,8 +141,6 @@ export const projects = [
       'A MERN stack web application for managing attendance with role-based dashboards, OTP verification, and MongoDB storage.',
     features: ['Teacher Dashboard', 'Student Dashboard', 'OTP Verification', 'MongoDB'],
     tech: ['React', 'Node.js', 'Express', 'MongoDB'],
-    github: 'https://github.com/amitkumar/attendance-system',
-    live: '#',
     image: 'attendance_system',
   },
   {
@@ -152,8 +150,7 @@ export const projects = [
       'Machine learning model to classify emails as spam or not spam using SVM algorithm with TF-IDF vectorization.',
     features: ['SVM Classifier', 'TF-IDF', 'Text Preprocessing', 'High Accuracy'],
     tech: ['Python', 'Scikit-learn', 'Pandas', 'NumPy'],
-    github: 'https://github.com/amitkumar/spam-detection',
-    live: '#',
+
     image: 'spam_detection',
   },
   {
@@ -162,9 +159,9 @@ export const projects = [
     description:
       'An intelligent AI agent designed to automate tasks and assist with decision making using advanced NLP techniques.',
     features: ['AI Automation', 'NLP', 'Task Management', 'Smart Responses'],
-    tech: ['Python', 'FastAPI', 'OpenAI', 'LangChain'],
-    github: 'https://github.com/amitkumar/spike-ai',
-    live: '#',
+    tech: ['Python', 'FastAPI', 'OpenAI'],
+    github: 'https://github.com/amitkumar/spike-aihttps://github.com/amitkumarbharti-1234/spike-ai-backend',
+
     image: 'spike_ai',
   },
   {
@@ -174,19 +171,19 @@ export const projects = [
       'A conversational AI agent powered by large language models for intelligent interaction and automation workflows.',
     features: ['Conversational AI', 'LLM Integration', 'Workflow Automation', 'API'],
     tech: ['Python', 'React', 'FastAPI', 'LLM'],
-    github: 'https://github.com/amitkumar/kasparoo-ai',
-    live: '#',
+    github: 'https://github.com/amitkumar/kasparoo-aihttps://github.com/amitkumarbharti-1234/kasparro-agentic-fb-analyst-amit-kumar',
+
     image: 'kasparoo_ai',
   },
 ];
 
 export const achievements = [
   {
-    title: '380+ LeetCode Problems Solved',
+    title: '403 LeetCode Problems Solved',
     description:
       'Consistently solving algorithmic challenges on LeetCode, strengthening problem-solving skills in data structures and algorithms.',
     icon: FaCode,
-    stat: '380+',
+    stat: '403',
   },
   {
     title: 'Tata Crucible Challenge',
