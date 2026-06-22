@@ -1,9 +1,9 @@
 import {
-  FaJava, FaPython, FaGitAlt, FaGithub, FaLinux, FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaDatabase,
-  FaShieldAlt, FaNetworkWired, FaBug, FaCode, FaBrain, FaTrophy, FaGraduationCap
+  FaJava, FaPython, FaGitAlt, FaGithub, FaLinux, FaReact, FaNodeJs, FaDatabase,
+  FaNetworkWired, FaBug, FaCode, FaBrain, FaTrophy, FaGraduationCap
 } from 'react-icons/fa';
 import {
-  SiCplusplus, SiMysql, SiMongodb, SiExpress, SiTailwindcss, SiOpencv, SiNumpy, SiPandas,
+  SiCplusplus, SiMysql, SiMongodb, SiExpress, SiOpencv, SiNumpy, SiPandas,
   SiScikitlearn, SiFastapi, SiJavascript, SiWireshark, SiKalilinux
 } from 'react-icons/si';
 import { TbBrandNpm, TbBrandVscode } from 'react-icons/tb';

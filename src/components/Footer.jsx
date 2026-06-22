@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { FaHeart, FaGithub, FaLinkedin, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaHeart, FaGithub, FaLinkedin } from 'react-icons/fa';
 import { personalInfo } from '../data/portfolioData';
 
 export default function Footer() {
